@@ -1,8 +1,6 @@
 {
     "userspace_version": "1.0",
     "build_targets": [
-        ["mode/m256wh", "preco21"],
-        ["massdrop/ctrl", "preco21"],
-        ["massdrop/alt", "preco21"]
+        ["mode/m256wh", "preco21"]
     ]
 }
